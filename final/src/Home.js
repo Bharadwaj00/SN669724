@@ -29,11 +29,10 @@ const [data, setData] = useState({})
                     </div>
                     <div className="col-lg-9 content-section">
                         <div className="card-title">
-                            <h1 className="fw-semibold text-md-start text-lg-start">James Smith</h1>
-                            <p className=" fs-6">Lorem ipsum issimply dummy text of the typesetting industry .Lorem ipsum has been the industry's
-                            standard dummy text ever since the 1500s,when an unknown printer took a galler of type
-                            and scrambled it to make a type specimen book .it has survived not only five centuries,
-                            but also the leap into electonic typesetting, remaining essentially unchanged.</p>
+                            <h1 className="fw-semibold text-md-start text-lg-start">S R K N S Bharadwaj Nidamarthy</h1>
+                            <p className=" fs-6">My name is Bharadwaj and I'm pursuing master's degree in computer science since spring 2022. 
+                            I completed my Bachelor's Degree in 2021 from S R K R Engineering college. 
+                            My Bachelor's project based on An ensemble segmentation of OCT images for Diagnoising the AMD using Deep Learning.</p>
                         </div>
                     </div>
                 </div>
