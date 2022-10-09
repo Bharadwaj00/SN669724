@@ -1,0 +1,105 @@
+body {
+  font-family:'poppins',sans-serif;
+}
+p {
+  font-family:'poppins',sans-serif;
+  font-weight: 400;
+}
+
+a {
+  font-family:'poppins',sans-serif;
+  font-weight: 500;
+}
+
+.content-section {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.navbar-toggler img {
+  width: 30px;
+  height: 30px;
+}
+
+label {
+  font-weight: 600;
+}
+
+textarea {   /* for all text* area elements */
+  resize: none;
+}
+
+.logo_text {
+  font-size: medium;
+}
+.navbar-brand img{
+  width: 40px;
+}
+.loader img {
+  width: 175px;
+  height: 150px;
+}
+.summation_of_two_number {
+  max-width: 350px;
+  
+}
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media only screen and (max-width: 991px) {
+  .navbar-nav {
+      max-width: 720px;
+      margin: 0 auto;
+  }
+
+  .navbar-collapse {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 65px;
+      width: 100%;
+      background-color: #fff;
+  }
+
+  .card-title {
+      margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar-nav {
+      max-width: 540px;
+      margin: 0 auto;
+  }
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
+
+.bottom {
+display: flex;
+align-items: center;
+}
+
+.bottom .common_div {
+margin-right: 20px;
+}
+
+
+
+
+
+
+
